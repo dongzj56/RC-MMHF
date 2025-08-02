@@ -1,2 +1,2 @@
 # RC-MMHF
-Classify AD and MCI using multimodal imaging and non-imaging data
+Multimodal hypergraph fusion centered on brain regions for predicting the conversion of MCI
